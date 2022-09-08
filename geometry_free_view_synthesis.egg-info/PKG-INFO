@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: geometry-free-view-synthesis
+Version: 0.0.1
+Summary: Geometry-Free View Synthesis: Transformers and no 3D Priors
+Home-page: https://github.com/CompVis/geometry-free-view-synthesis
+Author: Robin Rombach, Patrick Esser, Bjorn Ommer
+Author-email: robin.rombach@iwr.uni-heidelberg.de

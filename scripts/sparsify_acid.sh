@@ -10,7 +10,7 @@ fi
 [ -z "${IMG_ROOT}" ] && exit
 [ -z "${SPA_ROOT}" ] && exit
 
-for SPLIT in "test" "train" "validation"
+for SPLIT in "train"
 do
   echo $SPLIT
   TXT_SRC="${TXT_ROOT}/${SPLIT}"

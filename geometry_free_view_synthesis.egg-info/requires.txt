@@ -1,0 +1,13 @@
+torch
+torchvision
+numpy
+tqdm
+omegaconf>=2.0.0
+pytorch-lightning>=1.0.8
+pygame
+splatting@ git+https://github.com/pesser/splatting@1427d7c4204282d117403b35698d489e0324287f#egg=splatting
+einops
+importlib-resources
+imageio
+imageio-ffmpeg
+test-tube
